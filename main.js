@@ -149,7 +149,7 @@ var map = new mapboxgl.Map({
     // style: 'mapbox://styles/mapbox/streets-v9',
 	style: mystyle,
     hash: true,
-    zoom: 11.67,
+    zoom: 14.61,
     pitch: 60,
     bearing: -15.2,
     center: [ 5.6937, 51.9846]
